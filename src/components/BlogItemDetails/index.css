@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.author {
+  display: flex;
+  align-items: center;
+}
+.avatar-style {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.blog-details {
+  padding: 15px;
+  margin: 15px;
+  font-family: roboto;
+}
+.image-style-detailed {
+  width: 100%;
+  height: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.blog-title {
+  text-align: center;
+}
